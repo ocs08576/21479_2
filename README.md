@@ -1,6 +1,6 @@
 ## Team Name and Members
 
-Team NameL 21479_2
+Team Name: 21479_2
 
 Team Members:
 
